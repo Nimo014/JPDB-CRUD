@@ -19,8 +19,16 @@
 
 ### Screenshots:
 
-![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
+![Index Page](https://github.com/Nimo014/JPDB-CRUD/blob/5d83da11441db7a95b876093a83e7da61b35b6dd/Assets/Screenshot/CRUD.png)
 
-![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+![CREATE Page](https://github.com/Nimo014/JPDB-CRUD/blob/5d83da11441db7a95b876093a83e7da61b35b6dd/Assets/Screenshot/ADD.png)
 
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
+![READ Page](https://github.com/Nimo014/JPDB-CRUD/blob/5d83da11441db7a95b876093a83e7da61b35b6dd/Assets/Screenshot/READ.png)
+
+![UPDATE Page](https://github.com/Nimo014/JPDB-CRUD/blob/4c568c169010eb193d015d18b894c3b9bfcc6b39/Assets/Screenshot/UPDATE.png)
+
+![DELETE Page](https://github.com/Nimo014/JPDB-CRUD/blob/4c568c169010eb193d015d18b894c3b9bfcc6b39/Assets/Screenshot/DELETE.png)
+
+![DashBoard Page](https://github.com/Nimo014/JPDB-CRUD/blob/4c568c169010eb193d015d18b894c3b9bfcc6b39/Assets/Screenshot/dashboard.png)
+
+![Visualize](https://github.com/Nimo014/JPDB-CRUD/blob/4c568c169010eb193d015d18b894c3b9bfcc6b39/Assets/Screenshot/db.png)
